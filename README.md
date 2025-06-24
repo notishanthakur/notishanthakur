@@ -1,11 +1,15 @@
 # About Me?
-Fullstack Developer. <br />
+Fullstack Developer <br />
 
 <img src="https://komarev.com/ghpvc/?username=notishanthakur"> <br />
 
 ### Have I been active lately?
 
 <img alt="Stats said: Nope, not loading..." src="https://github-stats-widget-git-main-ayamdobhal.vercel.app/api?username=notishanthakur&show_icons=true&theme=transparent" />
+
+### Statistics?
+
+<img alt="Stats said: Nope, not loading..." src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notishanthakur" />
 
 ### Music?
 
@@ -15,5 +19,7 @@ Fullstack Developer. <br />
     alt="Either Vercel or Spotify decided to ditch me can't help."
   >
 </a>
+
+
 <br />
 <br />
