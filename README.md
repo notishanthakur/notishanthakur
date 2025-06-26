@@ -18,7 +18,9 @@ Fullstack Developer <br />
 
 ### Statistics?
 
-<img alt="Stats said: Nope, not loading..." src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notishanthakur&show_icons=true&theme=transparent" />
+<img alt="Stats said: Nope, not loading..." src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notishanthakur&show_icons=true&theme=transparent" /><img alt="Stats said: Nope, not loading..." src="https://github-readme-stats-ishan-thakurs-projects.vercel.app/api/top-langs/?username=notishanthakur&show_icons=true&theme=transparent" />
+<br />
+
 
 
 <br />
