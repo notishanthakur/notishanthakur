@@ -9,7 +9,7 @@ Fullstack Developer <br />
 
 ### Music?
 
-<a href="https://last.fm/user/ayamdobhal" target="_blank">
+<a href="" target="_blank">
   <img 
     src="https://novatorem-ayamdobhal.vercel.app/api/spotify?background_color=0d1117&border_color=00ecff"
     alt="Either Vercel or Spotify decided to ditch me can't help."
@@ -23,3 +23,6 @@ Fullstack Developer <br />
 
 <br />
 <br />
+<a href="https://www.linkedin.com/in/ishanthakur/">
+  <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue">
+</a>
