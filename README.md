@@ -5,7 +5,7 @@ Fullstack Developer <br />
 
 ### Have I been active lately?
 
-<img alt="Stats said: Nope, not loading..." src="https://github-stats-widget-git-main-ayamdobhal.vercel.app/api?username=notishanthakur&count_private=true&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true" />
+<img alt="Stats said: Nope, not loading..." src="https://github-readme-stats-ishan-thakurs-projects.vercel.app/api?username=notishanthakur&count_private=true&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true" />
 
 ### Music?
 
