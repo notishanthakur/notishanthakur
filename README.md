@@ -14,7 +14,7 @@ Fullstack Developer <br />
 ### Music?
 <a href="" target="_blank">
   <img 
-    src="https://spotify-github-ishan-thakurs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=00ecff"
+    src="https://spotify-github-ishan-thakurs-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"
     alt="Either Vercel or Spotify decided to ditch me can't help."
   >
 </a>
