@@ -22,13 +22,15 @@ Fullstack Developer <br />
 
 ### Statistics?
 
-<img alt="Stats said: Nope, not loading..." src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notishanthakur&show_icons=true&theme=transparent" /><img alt="Stats said: Nope, not loading..." src="https://github-readme-stats-ishan-thakurs-projects.vercel.app/api/top-langs/?username=notishanthakur&show_icons=true&theme=transparent" />
+<img alt="Stats said: Nope, not loading..." src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notishanthakur&show_icons=true&theme=transparent" />
+<!--<img alt="Stats said: Nope, not loading..." src="https://github-readme-stats-ishan-thakurs-projects.vercel.app/api/top-langs/?username=notishanthakur&show_icons=true&theme=transparent" /> -->
 <br />
 
 
 
 <br />
 <br />
+
 <a href="https://www.linkedin.com/in/ishanthakur/">
   <img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue">
 </a>
