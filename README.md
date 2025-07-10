@@ -7,7 +7,7 @@ Fullstack Developer <br />
 
 ### Have I been active lately?
 
-<img alt="Stats said: Nope, not loading..." width=500 src="https://github-readme-stats-ishan-thakurs-projects.vercel.app/api?username=notishanthakur&count_private=true&show_icons=true&theme=transparent&hide=stars,issues&include_all_commits=true" />    <img alt="Stats said: Nope, not loading..." width=500 src="https://github-readme-streak-stats.herokuapp.com?user=notishanthakur&theme=transparent&short_numbers=true" alt="GitHub Streak" />
+<img alt="Stats said: Nope, not loading..." width=500 src="https://github-readme-stats-ishan-thakurs-projects.vercel.app/api?username=notishanthakur&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&hide=stars,issues" />    <img alt="Stats said: Nope, not loading..." width=500 src="https://github-readme-streak-stats.herokuapp.com?user=notishanthakur&theme=transparent&short_numbers=true" alt="GitHub Streak" />
 
 ### Music?
 <a href="" target="_blank">
