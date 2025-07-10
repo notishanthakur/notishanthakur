@@ -29,7 +29,7 @@ Fullstack Developer <br />
 ### Connect With Me?
 <p align="left">
 <a href="https://twitter.com/notishanthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notishanthakur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishanthakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishanthakur/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ishanthakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishanthakur/" height="30" width="40" /></a>
 <a href="https://instagram.com/notishanthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notishanthakur" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/notishanthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="notishanthakur" height="30" width="40" /></a>
 </p>
