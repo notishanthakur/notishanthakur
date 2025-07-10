@@ -26,13 +26,6 @@ Fullstack Developer <br />
 <!--<img alt="Stats said: Nope, not loading..." src="https://github-readme-stats-ishan-thakurs-projects.vercel.app/api/top-langs/?username=notishanthakur&show_icons=true&theme=transparent" /> -->
 
 
-<br />
-
-
-
-<br />
-<br />
-
 ### Connect With Me?
 <p align="left">
 <a href="https://twitter.com/notishanthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notishanthakur" height="30" width="40" /></a>
